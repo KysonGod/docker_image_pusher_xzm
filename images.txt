@@ -1,1 +1,5 @@
-nacos
+rabbitmq
+redis
+bitnami/postgresql
+mongodb/mongodb-community-server
+bitnami/kafka
