@@ -1,1 +1,1 @@
-oraclelinux
+oraclelinux:8.10
