@@ -1,1 +1,1 @@
-oraclelinux:8.10
+apache/rocketmq:5.3.1
