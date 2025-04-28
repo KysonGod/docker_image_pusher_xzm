@@ -1,1 +1,1 @@
-daprio/dapr
+redis:7
