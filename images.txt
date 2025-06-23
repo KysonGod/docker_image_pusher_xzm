@@ -1,2 +1,2 @@
-apacherocketmq/rocketmq-dashboard:1.0.0
+bitnami/kafka:4.0.0
 
