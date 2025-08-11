@@ -1,1 +1,1 @@
-minio/mc
+prom/prometheus:v3.5.0
